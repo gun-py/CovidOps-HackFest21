@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794203862520",
+    "project_id": "covigenix-ab559",
+    "storage_bucket": "covigenix-ab559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794203862520:android:8ee3060b621064aa6cd20d",
+        "android_client_info": {
+          "package_name": "com.covigenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794203862520-5ehjgl1dim58rcdmc9jfncjsvvlkqr4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjHPAxWJiGWcKdb5Mx6Ov1_QRpkizImc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794203862520-5ehjgl1dim58rcdmc9jfncjsvvlkqr4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
