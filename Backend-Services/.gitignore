@@ -1,0 +1,7 @@
+node_modules/
+nodemon.json
+.gradle/
+.idea/
+local.properties
+build/
+libs/
